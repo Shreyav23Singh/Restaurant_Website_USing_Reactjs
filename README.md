@@ -1,4 +1,4 @@
- _____________________________________________________Reastaurant Website _______________________________________________________________________________
+______________________Reastaurant Website __________________
  
  
 As a skilled web developer, I designed and developed a restaurant website using React, a powerful JavaScript library. Leveraging React's component-based architecture,
