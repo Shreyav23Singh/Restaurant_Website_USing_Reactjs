@@ -8,3 +8,4 @@ My development of the restaurant website using React resulted in a visually stun
 I successfully contributed to the establishment's ability to attract and engage customers effectively.
 ![Screenshot (162)](https://github.com/Shreyav23Singh/Restaurant_Website_USing_Reactjs/assets/66567410/469d715c-cb48-4584-a547-f838808ccaa2)
 ![Uploading Screenshot (161).png…]()
+![Screenshot (158)](https://github.com/Shreyav23Singh/Restaurant_Website_USing_Reactjs/assets/66567410/3f8101d4-287b-41f5-8881-e5bd3579fc48)
